@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactjs-link-shortener/static/css/main.1a98b72a.css",
+    "main.js": "/reactjs-link-shortener/static/js/main.49935a3e.js",
+    "static/media/not-found.png": "/reactjs-link-shortener/static/media/not-found.e6feeaefb86e8a38c67a.png",
+    "index.html": "/reactjs-link-shortener/index.html",
+    "main.1a98b72a.css.map": "/reactjs-link-shortener/static/css/main.1a98b72a.css.map",
+    "main.49935a3e.js.map": "/reactjs-link-shortener/static/js/main.49935a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a98b72a.css",
+    "static/js/main.49935a3e.js"
+  ]
+}
